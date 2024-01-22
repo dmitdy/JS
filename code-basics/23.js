@@ -1,2 +1,2 @@
-let who = "dragon's" + 'mother';
-console.log(who);
+const magic = '\nyou';
+console.log(magic[1]); // => ?
